@@ -3,5 +3,6 @@ This is the repository for the course assignment of week 1 of "Exploratory Data 
  To run the scripts:
  * Download the scripts
  * Download the required data for this assigment from here: https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
- * Extract the data from the zip file
+ * Extract the data from the zip-file
+ * Set "path" to the location where you unpacked the zip-file
  * Run the scripts
